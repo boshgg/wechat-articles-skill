@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信公众号文章"
+  short_description: "审查热解领域 Word 原稿，保留素材并生成统一风格公众号 HTML"
+  default_prompt: "使用 $wechat-articles 审查并更新项目中的新文章，生成 Markdown、Word 和公众号 HTML，完成验收与共享目录备份。"

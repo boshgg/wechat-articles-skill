@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+*.token
+*.key
+*.pem
+*.sqlite*
+*.doc
+*.docx
+*.pdf
+_work/
+outputs/
+qa-output/
+*.local.json
